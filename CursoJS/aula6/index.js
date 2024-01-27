@@ -5,6 +5,8 @@
 // Não podem conter espaços ou traços ex: let nome-cliente ou nome cliente
 //Variavéis com nomes compostos utilizamos camelCase ex: let nomeCompleto;
 //Case-sensitive ex: letra minuscula e letra maiúscula faz diferença
+// Não podemos redeclarar variáveis om let;
+//Não utilize var, SEMPRE UTILIZE LET!!!!!!!
 
 let nome = 'José'; //String
 let sobrenome; //Declarou a variável
